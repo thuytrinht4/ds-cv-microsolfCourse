@@ -1,11 +1,6 @@
 # ds-cv-microsolfCourse
 Develop code and demonstration from the online course for Computer Vision and Image Analysis, conducted by Microsoft
 
-# Useful Sources
-[edX course](https://courses.edx.org/courses/course-v1:Microsoft+DEV290x+1T2019a/course/)
-
-[Coco dataset]()
-
 # Contents
 
 Module1: Introduction to Python 3 - Some basic functions 
@@ -23,6 +18,11 @@ Module3: Object Classification <br>
 2. ResNet
 
 Module4: Use ResNet, FC and Transfer learning for Semantic Segmentation
+
+# Useful Sources
+[edX course](https://courses.edx.org/courses/course-v1:Microsoft+DEV290x+1T2019a/course/)
+
+[Coco dataset]()
 
 
 
