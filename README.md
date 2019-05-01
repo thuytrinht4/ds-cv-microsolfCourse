@@ -1,5 +1,10 @@
 # ds-cv-microsolfCourse
-Develop code and demonstration from the online course for Computer Vision and Image Segmentation, conducted by Microsoft
+Develop code and demonstration from the online course for Computer Vision and Image Analysis, conducted by Microsoft
+
+# Useful Sources
+[edX course](https://courses.edx.org/courses/course-v1:Microsoft+DEV290x+1T2019a/course/)
+
+[Coco dataset]()
 
 # Contents
 
